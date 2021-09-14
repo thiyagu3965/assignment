@@ -92,7 +92,7 @@ tr:nth-child(even) {
 .footer{
   position: absolute;
   bottom: 0;
-  right: 0;
+  right: 10%;
 }
 .footer ul{
 list-style-type: none;
@@ -110,6 +110,7 @@ list-style-type: none;
   height: 10px;
 }
 .pagination {
+  margin-bottom: 20px;
   display: inline-block;
   float: right;
 }
