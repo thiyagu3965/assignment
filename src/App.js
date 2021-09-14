@@ -146,6 +146,7 @@ function App() {
     
   </tr>
 </table>
+</div>
 <div class="pagination">
   <a href="#">&laquo;</a>
   <a href="#">1</a>
@@ -155,7 +156,6 @@ function App() {
   <a href="#">5</a>
   <a href="#">6</a>
   <a href="#">&raquo;</a>
-</div>
 </div>
 
     <div className="footer">

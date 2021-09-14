@@ -120,3 +120,6 @@ list-style-type: none;
   padding: 8px 16px;
   text-decoration: none;
 }
+.pagination:hover{
+  background-color: cadetblue;
+}
