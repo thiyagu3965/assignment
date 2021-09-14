@@ -1,0 +1,111 @@
+.container{
+  height: 100vh;
+  /* background-color: aqua; */
+  width: 100%;
+}
+.navbar{
+  
+ 
+  width: 99%;
+  height: 88px;
+  background-color: rgb(43, 43, 213);
+  margin: 5px;
+  border-radius: 8px;
+}
+.navlogo{
+  position: relative;
+  top: 15px;
+  height: 20px; 
+  filter:invert(100%);
+}
+.list{
+  
+  list-style-type: none;
+  
+}
+.lii{
+  
+  top: -45px;
+  position: relative;
+  float: right;
+}
+.power{
+  
+  margin-right: 25px;
+
+}
+.power:hover{
+  color: white;
+}
+.twobutton ul{
+  margin-top: -10px;
+  
+  list-style-type: none;
+}
+.twobutton ul li{
+  display: inline-block;
+  margin: 10px;
+  float: right;
+}
+.secondRow{
+  width: 100%;
+}
+.btn{
+  border-radius: 15px;
+  width: fit-content;
+  padding: 5px;
+  background-color: white;
+  border:  rgb(43, 43, 213) solid 3px;
+}
+.btn:hover{
+  background-color:  rgb(43, 43, 213);
+  color: white;
+}
+
+table {
+  
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 99%;
+ margin: 5px;
+ position: sticky;
+
+  border: 1px solid #ddd;
+}
+.headingRow{
+  border: 2px solid black;
+  border-radius: 20px;
+}
+th, td {
+  text-align: left;
+  padding: 16px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+.fortbl{
+  width: 100%;
+  height: 400px;
+ overflow-y: scroll;
+}
+.footer{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.footer ul{
+list-style-type: none;
+
+}
+.footer  ul li{
+  display: inline-block;
+  margin: 10px;
+ 
+  
+
+}
+.vl{
+  border-left: 2px solid black;
+  height: 10px;
+}
